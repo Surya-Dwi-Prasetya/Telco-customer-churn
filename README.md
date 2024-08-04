@@ -1,4 +1,4 @@
-# Telco-customer-churn
+# Telco-customer-churn (BERSIH)
 
 ## Folder bersih berisi:
 - Data preprosesing
